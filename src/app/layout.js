@@ -1,6 +1,6 @@
 "use client";
 import "./globals.css"; 
-import Sidebar from "./apply/components/Sidebar";
+import Sidebar from "./components/Sidebar";
 
 export default function RootLayout({ children }) {
   return (
