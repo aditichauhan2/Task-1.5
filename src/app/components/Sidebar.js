@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { FaHome, FaClipboardList } from "react-icons/fa";
-import styles from "@/app/styles/Sidebar.module.css"; // Correct import path
+import styles from "@/app/styles/Sidebar.module.css"; 
 
 export default function Sidebar() {
   return (
